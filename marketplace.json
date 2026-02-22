@@ -1,0 +1,14 @@
+{
+  "name": "cognitive-agile",
+  "description": "AI orchestrator that replaces Agile — pulls ideas from anyone in the org through to production with minimal friction.",
+  "author": "YOUR-USERNAME",
+  "plugins": [
+    {
+      "name": "ai-orchestrator",
+      "source": "./",
+      "description": "Cognitive Agile OS — Imagine → Prototype → Test → Refine → Scale. AI handles orchestration, humans approve at decision gates only.",
+      "version": "1.0.0",
+      "tags": ["productivity", "agile", "orchestration", "devops", "itops"]
+    }
+  ]
+}
