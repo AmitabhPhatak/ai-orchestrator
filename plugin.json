@@ -1,0 +1,20 @@
+{
+  "name": "ai-orchestrator",
+  "version": "1.0.0",
+  "description": "Cognitive Agile orchestrator — pulls ideas from anyone in the org through to production with minimal friction. Replaces heavy Agile ceremony with AI-driven flow.",
+  "author": "your-org",
+  "commands": [
+    { "name": "imagine",   "description": "Submit a rough idea — AI structures it into a coherent opportunity brief" },
+    { "name": "prototype", "description": "Turn an approved brief into a working scaffold immediately" },
+    { "name": "test",      "description": "Extract signal from the prototype — edge cases, feedback, friction" },
+    { "name": "refine",    "description": "Strengthen the system — reduce redundancy, surface risks, simplify" },
+    { "name": "scale",     "description": "Prepare and promote to production with readiness validation" },
+    { "name": "status",    "description": "Async progress report across all active ideas — replaces standups" },
+    { "name": "unblock",   "description": "Surface all ideas currently stalled and why" }
+  ],
+  "agents": [
+    { "name": "orchestrator",     "description": "The drum master — moves ideas through stages automatically" },
+    { "name": "clarity-agent",    "description": "Detects when human judgment is needed and surfaces it clearly" },
+    { "name": "cognitive-guard",  "description": "Prevents over-delegation — ensures humans preserve reasoning capacity" }
+  ]
+}
