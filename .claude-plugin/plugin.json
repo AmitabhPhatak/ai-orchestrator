@@ -2,7 +2,7 @@
   "name": "ai-orchestrator",
   "version": "1.0.0",
   "description": "Cognitive Agile orchestrator — pulls ideas from anyone in the org through to production with minimal friction. Replaces heavy Agile ceremony with AI-driven flow.",
-  "author": "your-org",
+  "author": "Amitabh Phatak",
   "commands": [
     { "name": "imagine",   "description": "Submit a rough idea — AI structures it into a coherent opportunity brief" },
     { "name": "prototype", "description": "Turn an approved brief into a working scaffold immediately" },
